@@ -1,0 +1,3 @@
+result is: 8
+
+[3 milliseconds execution time.]

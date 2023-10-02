@@ -1,0 +1,25 @@
+I = 1
+I = 2
+I = 3
+I = 4
+I = 5
+j = 5
+j = 4
+j = 3
+j = 2
+j = 1
+ch = a
+ch = b
+ch = c
+ch = d
+ch = e
+ch = f
+ch = g
+ch = h
+ch = i
+ch = j
+ch = k
+ch = l
+ch = m
+
+[7 milliseconds execution time.]

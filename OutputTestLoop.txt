@@ -1,0 +1,12 @@
+This loop will end when I=5, because now I=1
+Loop continues
+This loop will end when I=5, because now I=2
+Loop continues
+This loop will end when I=5, because now I=3
+Loop continues
+This loop will end when I=5, because now I=4
+Loop continues
+This loop will end when I=5, because now I=5
+Loop Ends
+
+[4 milliseconds execution time.]
